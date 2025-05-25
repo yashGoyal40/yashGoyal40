@@ -4,15 +4,15 @@
 <p>
 I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies, ⚙️ automation, and scalable infrastructure. My core expertise lies in designing and implementing robust CI/CD pipelines 🚀 that ensure smooth and automated software delivery — from code commit to production.
 
-🔁 I actively work with container orchestration using Kubernetes, focusing on zero-downtime deployments through advanced strategies like <strong>Blue-Green</strong> 🟦🟩, <strong>Canary</strong> 🐦, and <strong>Rolling Updates</strong> 🔄.
+🔁 I actively work with container orchestration using Kubernetes, focusing on zero-downtime deployments through advanced strategies like <strong>Blue-Green</strong>, <strong>Canary</strong>, and <strong>Rolling Updates</strong>.
 
-🔐 I handle service mesh integrations, secrets management 🔑, and end-to-end observability across microservices using tools like Prometheus 📊, Grafana 📈, Loki 📘, and AWS CloudWatch 🛰️.
+🔐 I handle service mesh integrations, secrets management, and end-to-end observability across microservices using tools like Prometheus, Grafana, Loki, and AWS CloudWatch.
 
-📦 With hands-on experience in Terraform 🪄, Ansible 🤖, and GitOps tools like ArgoCD 🎯, I help teams shift left ⬅️, increase deployment velocity ⚡, and reduce operational risks 🧯.
+📦 With hands-on experience in Terraform , Ansible, and GitOps tools like ArgoCD, I help teams shift left, increase deployment velocity, and reduce operational risks.
 
-💸 I’m also focused on cloud cost optimization and efficient resource usage in multi-cloud 🌐 and hybrid environments.
+🌐 I’m also focused on cloud cost optimization and efficient resource usage in multi-cloud and hybrid environments.
 
-🧠 Always exploring new ways to automate, simplify, and scale systems 📈.
+🧠 Always exploring new ways to automate, simplify, and scale systems.
 </p>
 
 ---
