@@ -1,4 +1,5 @@
-<h3 align="center">Hello 👋 , I am Yash</h3>
+<h1 align="center">Hi 👋, I'm Yash</h1>
+<h3 align="center">A passionate DevOps Engineer and cloud-native enthusiast.</h3>
 
 ###
 
