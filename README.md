@@ -2,17 +2,17 @@
 <h3 align="center">A passionate DevOps Engineer and cloud-native enthusiast</h3>
 
 <p>
-I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies, ⚙️ automation, and scalable infrastructure. My core expertise lies in designing and implementing robust CI/CD pipelines 🚀 that ensure smooth and automated software delivery — from code commit to production.
+I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies, ⚙️ automation, and scalable infrastructure. My expertise includes designing resilient cloud architectures, implementing Infrastructure as Code (IaC) 🚀, building robust CI/CD pipelines, and delivering secure, reliable software — from commit to production. I also emphasize cloud security, cost optimization, and operational excellence in distributed systems.
 
-🔁 I actively work with container orchestration using Kubernetes, focusing on zero-downtime deployments through advanced strategies like <strong>Blue-Green</strong>, <strong>Canary</strong>, and <strong>Rolling Updates</strong>.
+🔁 I specialize in container orchestration using Kubernetes, enabling zero-downtime deployments through advanced strategies like <strong>Blue-Green</strong>, <strong>Canary</strong>, and <strong>Rolling Updates</strong>.
 
-🔐 I handle service mesh integrations, secrets management, and end-to-end observability across microservices using tools like Prometheus, Grafana, Loki, and AWS CloudWatch.
+🔐 I manage service mesh integrations, secrets, and end-to-end observability across microservices using tools like Prometheus, Grafana, Loki, and AWS CloudWatch.
 
-📦 With hands-on experience in Terraform , Ansible, and GitOps tools like ArgoCD, I help teams shift left, increase deployment velocity, and reduce operational risks.
+📦 With hands-on experience in Terraform, Ansible, and GitOps tools like ArgoCD, I help teams shift left, accelerate delivery, and reduce operational risk.
 
-🌐 I’m also focused on cloud cost optimization and efficient resource usage in multi-cloud and hybrid environments.
+🌐 I optimize cloud spend and resource usage across multi-cloud and hybrid environments.
 
-🧠 Always exploring new ways to automate, simplify, and scale systems.
+🧠 Continuously exploring new ways to automate, simplify, and scale systems.
 </p>
 
 ---
