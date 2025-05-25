@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate DevOps Engineer and cloud-native enthusiast</h3>
 
+<p align="center">
+  🚀 I specialize in building and automating scalable CI/CD pipelines, managing Kubernetes clusters, and deploying resilient microservices across multi-cloud environments.<br/>
+  ☁️ Experienced with AWS, GCP, and Azure, I focus on cloud-native development, infrastructure as code, observability, and cost optimization strategies.<br/>
+  🛠️ Whether it's automating workflows, securing deployments, or optimizing cloud spend, I'm passionate about delivering efficient and reliable DevOps solutions.
+</p>
+
+
 ###
 
 <div align="left">
