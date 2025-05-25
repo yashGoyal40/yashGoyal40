@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate DevOps Engineer and cloud-native enthusiast</h3>
 
-<sub>
+<p>
 I’m a DevOps Engineer with a deep passion for cloud-native technologies, automation, and scalable infrastructure. My core expertise lies in designing and implementing robust CI/CD pipelines that ensure smooth and automated software delivery — from code commit to production.
 
 I actively work with container orchestration using Kubernetes, and focus on achieving zero-downtime deployments through techniques like Blue-Green, Canary, and Rolling strategies. I also handle service mesh integrations, secrets management, and observability across microservices using tools like Prometheus, Grafana, and CloudWatch.
@@ -9,7 +9,7 @@ I actively work with container orchestration using Kubernetes, and focus on achi
 With hands-on experience in Terraform, Ansible, and GitOps tools like ArgoCD, I help teams shift left, improve deployment velocity, and reduce operational risks. I'm also focused on cloud cost optimization and efficient resource usage in multi-cloud and hybrid environments.
 
 Always exploring new ways to automate, simplify, and scale systems.
-</sub>
+</p>
 
 
 
