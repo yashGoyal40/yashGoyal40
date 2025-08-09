@@ -37,6 +37,8 @@ I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
   <img width="12" />
+  <img src="https://vectorseek.com/wp-content/uploads/2023/09/GitHub-Actions-Logo-Vector.svg-.png" height="40" alt="Github Actions" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="Jenkins" />
   <img width="12" />
 
