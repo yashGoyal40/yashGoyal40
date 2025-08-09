@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer and cloud-native enthusiast</h3>
 
 <p>
-I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies, ⚙️ automation, and scalable infrastructure. My expertise includes designing resilient cloud architectures, implementing Infrastructure as Code (IaC) 🚀, building robust CI/CD pipelines, and delivering secure, reliable software — from commit to production. I also emphasize cloud security, cost optimization, and operational excellence in distributed systems.
+I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies, ⚙️ automation, and scalable infrastructure. My expertise includes designing resilient cloud architectures, implementing Infrastructure as Code (IaC) 🚀, building robust CI/CD pipelines, and delivering secure, reliable software from commit to production. I also emphasize cloud security, cost optimization, and operational excellence in distributed systems.
 
 🔁 I specialize in container orchestration using Kubernetes, enabling zero-downtime deployments through advanced strategies like <strong>Blue-Green</strong>, <strong>Canary</strong>, and <strong>Rolling Updates</strong>.
 
