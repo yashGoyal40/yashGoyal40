@@ -37,6 +37,8 @@ I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo" />
   <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/27/1/jenkins-logo-png_seeklogo-273560.png" height="40" alt="argocd logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
