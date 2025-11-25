@@ -6,7 +6,7 @@ I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies
 
 🔁 I specialize in container orchestration using Kubernetes, enabling zero-downtime deployments through advanced strategies like <strong>Blue-Green</strong>, <strong>Canary</strong>, and <strong>Rolling Updates</strong>.
 
-🔐 I manage service mesh integrations, secrets, and end-to-end observability across microservices using tools like Prometheus, Grafana, Loki, and AWS CloudWatch.
+🔐 I manage service mesh integrations, secrets, and end-to-end observability across microservices using tools like Prometheus, Grafana, Loki, OTEl, DataDog, NewRelic, Tempo, Grafana Alloy, Loki, AWS CloudWatch etc.
 
 📦 With hands-on experience in Terraform, Ansible, and GitOps tools like ArgoCD, I help teams shift left, accelerate delivery, and reduce operational risk.
 
