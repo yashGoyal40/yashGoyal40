@@ -56,7 +56,7 @@ I’m a DevOps Engineer with a deep passion for ☁️ cloud-native technologies
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
   <img width="12" />
-   <img src="	https://code.benco.io/icon-collection/logos/grpc-logo.svg" height="40" alt="envoy logo" />
+   <img src="https://code.benco.io/icon-collection/logos/envoy-icon-color.svg" height="40" alt="envoy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
   <img width="12" />
